@@ -1,0 +1,6 @@
+[
+    {"name": "Goblin raider", "hp": 7, "str": 10, "ac": 12},
+    {"name": "Skeleton warrior", "hp": 9, "str": 12, "ac": 13},
+    {"name": "Dire wolf", "hp": 11, "str": 13, "ac": 14},
+    {"name": "Bandit leader", "hp": 10, "str": 14, "ac": 15}
+]

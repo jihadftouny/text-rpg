@@ -1,0 +1,6 @@
+[
+    {"name": "Pouch of 20 gold coins", "type": "currency"},
+    {"name": "Enchanted short sword", "type": "weapon", "damage": "1d6+1"},
+    {"name": "Potion of healing", "type": "potion", "heal": 8},
+    {"name": "Ancient silver amulet", "type": "accessory"}
+]
